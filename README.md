@@ -1,8 +1,8 @@
 # CTF-Website-Template-2020
 
-[ TLDR ] Front end of a Capture the Flag ( CTF ) website. 
+[ TLDR ] Front end of a Capture the Flag ( Hacker ) website. 
 
-CTF-Website-Template-2020 is a frontend template made for a simple CTF event. It consists of the following features:
+Hacker-Website is a frontend template made for a simple Hacker event. It consists of the following features:
 - Home Page
 - Login Page
 - Register Page
